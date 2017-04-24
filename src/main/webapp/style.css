@@ -152,7 +152,8 @@ tr:hover .deleteBtn {
 	padding: 15px;
   margin: 0 auto;
   text-align: center;
-	font-size: 2.5rem;
+	font-size: 1.5rem;
+	color: green;
 }
 
 .description {
